@@ -1,0 +1,8 @@
+django
+channels
+channels_redis
+djangorestframework
+daphne
+django-cors-headers
+dj-rest-auth[with_social]
+
